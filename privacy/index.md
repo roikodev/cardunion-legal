@@ -69,4 +69,5 @@ When this policy changes, we update the date above and tell you in the app.
 
 ## Contact
 
-In the app: **Settings > Legal & support > Contact Us**.
+In the app: **Settings > Legal & support > Contact Us**, or email
+roikodev@gmail.com.

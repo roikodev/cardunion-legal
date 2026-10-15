@@ -55,4 +55,5 @@ in the app. Using Card Union after that means you accept them.
 
 ## Contact
 
-In the app: **Settings > Legal & support > Contact Us**.
+In the app: **Settings > Legal & support > Contact Us**, or email
+roikodev@gmail.com.
