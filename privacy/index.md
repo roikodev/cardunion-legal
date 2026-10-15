@@ -32,16 +32,17 @@ the app. Your decks stay private unless you share them.
 
 ## Who handles it
 
-Only the services that run Card Union for us:
+Only the service providers that run Card Union for us:
 
-- **Supabase:** our database and sign-in (hosted in Tokyo)
-- **Cloudflare:** stores profile pictures and photos, and delivers card pictures
-- **Resend:** sends account emails
-- **Google and Apple:** only if you sign in with them
-- **Apple TestFlight:** crash reports, and the feedback you choose to send, during the beta
+- our hosting provider, which runs our database and sign-in
+- our storage provider, which keeps profile pictures and photos and delivers card pictures
+- our email provider, which sends account emails
+- Google or Apple, only if you sign in with them
+- Apple, which runs the TestFlight beta and gives us crash reports and the feedback you choose to send
 
 They handle your data only to provide their service to Card Union, and protect
-it as this policy does. We don't sell your data or share it for advertising.
+it as this policy does. Your data may be stored and processed outside your
+country. We don't sell your data or share it for advertising.
 
 When a card picture isn't on our servers yet, the app loads it from Bandai's
 card website, which then sees your device's IP address.
