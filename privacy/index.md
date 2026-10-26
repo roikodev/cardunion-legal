@@ -1,6 +1,6 @@
 # Card Union Privacy Policy
 
-Last updated: 15 October 2026
+Last updated: 16 October 2026
 
 Card Union is an unofficial fan app for Battle Spirits players. It is not
 affiliated with, endorsed by or sponsored by Bandai. All card illustrations and
@@ -17,18 +17,23 @@ card text belong to Bandai.
 - **Sign-in security:** records of your sign-ins and of the devices you have
   confirmed with an emailed code, which can include a device's IP address and
   description.
+- **Cards you open:** while you're signed in, which cards you open, once a day
+  per card.
 
 We don't collect your location, contacts or payment details. There are no ads,
-no analytics and no tracking across other apps or websites.
+no outside analytics and no tracking across other apps or websites.
 
 ## How we use it
 
 Only to run Card Union: to sign you in and keep your account secure, keep your
-decks and posts, show your profile and posts to other players, send account
-emails (sign-in codes and password resets), and review reports.
+decks and posts, show your profile and posts to other players, rank popular
+cards, send account emails (sign-in codes and password resets), and review
+reports.
 
-Your profile, articles, comments and their photos are visible to everyone in
-the app. Your decks stay private unless you share them.
+Your profile, articles, comments and their photos are visible to everyone in the
+app. Your decks stay private unless you share them. Popular cards are ranked
+from public decks, articles and likes, and from how many players open each card;
+only totals are shown.
 
 ## Who handles it
 
@@ -53,14 +58,15 @@ card website, which then sees your device's IP address.
 - An article or comment you delete is hidden at once, and removed for good when
   you delete your account.
 - Sign-in codes are erased within two days.
+- The cards you open: 90 days.
 - Our database provider keeps backups for a short time, then removes them.
 
 ## Deleting your account
 
 In the app: **Settings > Account > Delete Account**. It removes your account,
-profile, decks, articles, comments, photos, likes and bookmarks, and the
-comments others left on your articles. Reports you sent are kept without your
-name, so they can still be acted on.
+profile, decks, articles, comments, photos, likes, bookmarks and the cards you
+opened, and the comments others left on your articles. Reports you sent are kept
+without your name, so they can still be acted on.
 
 You can also ask us to see, correct or delete your data through **Contact Us**.
 
