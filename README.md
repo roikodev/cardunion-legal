@@ -1,7 +1,8 @@
 # cardunion-legal
 
-The published Privacy Policy and Terms of Use of Card Union, served by GitHub Pages:
+Card Union's front page, Privacy Policy and Terms of Use, served by GitHub Pages:
 
+- https://roikodev.github.io/cardunion-legal/
 - https://roikodev.github.io/cardunion-legal/privacy/
 - https://roikodev.github.io/cardunion-legal/terms/
 

@@ -1,6 +1,6 @@
 # Card Union Privacy Policy
 
-Last updated: 26 October 2026
+Last updated: 30 October 2026
 
 Card Union is an unofficial fan app for Battle Spirits players. It is not
 affiliated with, endorsed by or sponsored by Bandai. All card illustrations and
@@ -19,6 +19,9 @@ card text belong to Bandai.
   description.
 - **Cards you open:** while you're signed in, which cards you open, once a day
   per card.
+- **Issue reports:** when you report a problem with the app or a card, what you
+  write, which card it is about, and your app version, system, device model and
+  app language.
 
 We don't collect your location, contacts or payment details. There are no ads,
 no outside analytics and no tracking across other apps or websites.
