@@ -1,6 +1,6 @@
 # Card Union Terms of Use
 
-Last updated: 15 October 2026
+Last updated: 11 November 2026
 
 By using Card Union you agree to these terms and to our Privacy Policy.
 
@@ -10,10 +10,10 @@ Card Union is not affiliated with, endorsed by or sponsored by Bandai. Battle
 Spirits, its card illustrations and its card text belong to Bandai. All rights
 reserved by Bandai.
 
-## A beta
+## The app and your data
 
-Card Union is in beta. Features may change or stop, the app may be
-unavailable, and beta data may be reset.
+Features may change or stop, and the app may be unavailable at times. We do
+our best to keep your account and everything you make in it.
 
 ## Your account
 
